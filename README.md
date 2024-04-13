@@ -1,8 +1,6 @@
-# Hi, I’m @SFS-RAID7
+# Hi, I’m @SFS-RAID
 ## About Me
-
->! Uses linux
-
+> Uses Linux
 * I am a learning developer
 * Maybe I won't be a Developer, No one knows
 
@@ -12,7 +10,14 @@
 
 * Trying to multiple projects at once but procrastinating 
 
+* Termux User
+
+  
 **Fun fact:** I have never used a computer
+
+```bash
+I know you didn't read anything
+```
 <!--
 **SFS-RAID/SFS-RAID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
