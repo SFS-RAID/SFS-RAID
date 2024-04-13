@@ -1,6 +1,8 @@
 # Hi, I’m @SFS-RAID7
 ## About Me
 
+>! Uses linux
+
 * I am a learning developer
 * Maybe I won't be a Developer, No one knows
 
